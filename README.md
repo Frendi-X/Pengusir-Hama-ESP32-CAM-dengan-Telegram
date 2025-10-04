@@ -126,5 +126,5 @@ Sensor PIR akan mendeteksi gerakan dan menyalakan **buzzer serta LED** sebagai a
 ---
 
 ## 👨‍💻 Author
-Dikembangkan oleh: Imam Sa'id Nurfrendi [RoboTech]  
+Dikembangkan oleh: Imam Sa'id Nurfrendi [Reog Robotic & Robotech Electronics]  
 Lisensi: Open Source (MIT)
